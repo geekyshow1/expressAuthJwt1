@@ -8,5 +8,5 @@ npm install
 npm run dev
 ```
 
-#### There is a Folder "PostmanEndpoint" which has Postman Collection File You can import this file in your postman to test this API
+#### There is a Folder "PostmanEndpoints" which has Postman Collection File You can import this file in your postman to test this API
 
